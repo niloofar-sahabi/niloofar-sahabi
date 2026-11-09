@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Niloofar Sahabi!✨
+### Hi there, I'm Niloofar Sahabi!✨
 
 I am a passionate Full-Stack Developer who loves turning complex problems into clean, efficient, and user-friendly web applications. I have a deep drive for continuous learning and building innovative projects from scratch.
 
